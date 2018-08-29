@@ -1,6 +1,6 @@
 # Machine_Learning
 
-Basic infrastrucure for machine learning built from the ground up.
+Basic infrastructure for machine learning built from the ground up.
 
 ## Getting Started
 
